@@ -4,5 +4,5 @@
 ![Status do Github](https://github-readme-stats.vercel.app/api?username=Davi8002&PAT_1=show_icons=true&bg_color=050C21&text_color=FFF&title_color=FFFF&icon_color=FFF&PAT_1)
 
 
-![Contador De Views Hehe](https://komarev.com/ghpvc/?username=Davi8002&color=red)
+![Contador De Views Hehe](https://komarev.com/ghpvc/?username=Davi8002&color=orange)
 
