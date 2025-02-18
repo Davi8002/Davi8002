@@ -2,7 +2,7 @@
 
 Cursando Ensino Médio Com Técnico de DS
 
-## Linguagens:
+## "Linguagens":
 <p align="left">
   <img src="https://github.com/user-attachments/assets/b0d8c0ea-fcc2-49d1-8649-85c651d4374e" height="50">
   <img src="https://github.com/user-attachments/assets/a8c23202-19cf-4791-bd63-8eaa18b49643" height="50">
